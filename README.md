@@ -8,12 +8,16 @@ During Q4 2021 livestreaming platform Twitch started aggressively forcing ads on
 At the time, viewing a stream through 3rd party video players would circumvent said ads.</br>
 I wanted to make a tool that would make it possible to view my favourite streams with the least possible clicks.</br></br></br>
 
-<h2>End Result</h2></br>
+<h2>Program</h2></br>
 
 ![GUI](Screenshot/GUI.PNG)
 </br>
-The end result is above, a popup window with named buttons as well as a textbox for writing names</br></br></br>
+For an API request of the top 50 most followed channels, above is the result.</br>
+Additionally there is a textbox for any another channel outside of the top 50.</br></br></br>
 
-<h2>Text file with stored API response</h2></br>
+<h2>API Response (Text File)</h2></br>
 
 ![TXTFILE](Screenshot/onlineStreamsInfo.PNG)
+</br>
+There was a time that I was thinking to use both the current game directory as well as thumbnail</br>
+to further increase the utility of the program but said ideas were never explored.
